@@ -1,9 +1,9 @@
-"use strict";
+"use strict"; // Java script page
 
 // set up the IIFE (Pronounced 'IFFY')(Immediately Invoked Function Expression)
 (function(){
 
-	console.log("App Started...");
+	console.log("App has Started...");
 //anything inside the braces is called "Code Block" 
 
 // declared a named function way
